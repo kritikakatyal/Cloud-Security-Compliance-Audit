@@ -13,29 +13,29 @@ In this project, **Nessus** is used to scan the configurations of **AWS** cloud 
 
 ---
 
-## 🚀 **Quick Start Guide**
+## **Quick Start Guide**
 
 ### 1. **Set up Nessus:**
-   - Follow the **[Installation Guide](INSTALLATION.md)** to set up Nessus on your system.
+   - Follow the **Installation Guide** to set up Nessus on your system.
    
 ### 2. **Configure AWS Environment:**
-   - Follow the **[Configuration Guide](CONFIGURATION.md)** to set up your **AWS** account and connect Nessus to it for scanning.
+   - Follow the **Configuration Guide** to set up your **AWS** account and connect Nessus to it for scanning.
 
 ### 3. **Scan AWS Infrastructure:**
-   - Follow the **[Scanning Instructions](SCANS.md)** to begin scanning the AWS infrastructure for security issues.
+   - Follow the **Scanning Instructions** to begin scanning the AWS infrastructure for security issues.
 
 ### 4. **Review Scan Results:**
-   - Check the **[Results](RESULTS.md)** to view the findings from the scans and understand the potential risks.
+   - Check the **Results** to view the findings from the scans and understand the potential risks.
 
 ### 5. **Compliance Check:**
-   - Refer to the **[Compliance Guide](COMPLIANCE.md)** to ensure your AWS environment adheres to compliance standards like **CIS**, **NIST**, and **PCI-DSS**.
+   - Refer to the **Compliance Guide** to ensure your AWS environment adheres to compliance standards like **CIS**, **NIST**, and **PCI-DSS**.
 
 ### 6. **Troubleshoot Issues:**
-   - If you encounter any problems during setup or scanning, consult the **[Troubleshooting Guide](TROUBLESHOOTING.md)**.
+   - If you encounter any problems during setup or scanning, consult the **Troubleshooting Guide**.
 
 ---
 
-## 🔧 **Requirements**
+## **Requirements**
 
 - **Nessus**: The primary tool used to perform security audits.
 - **AWS Account**: Active AWS account with appropriate permissions for scanning.
@@ -45,13 +45,13 @@ In this project, **Nessus** is used to scan the configurations of **AWS** cloud 
 
 ---
 
-## 🌐 **Cloud Provider**
+## **Cloud Provider**
 
 - **AWS (Amazon Web Services)**: This project focuses on scanning and securing AWS environments.
 
 ---
 
-## 📊 **Scan Types**
+## **Scan Types**
 
 Nessus offers several scan types that can be used for cloud security auditing, including:
 - **Port Scanning**: Detects open ports and services in the AWS infrastructure.
@@ -60,7 +60,7 @@ Nessus offers several scan types that can be used for cloud security auditing, i
 
 ---
 
-## 📜 **Compliance Frameworks**
+## **Compliance Frameworks**
 
 The following compliance frameworks are covered:
 - **CIS (Center for Internet Security)**: Checks for compliance with CIS benchmarks for AWS security.
@@ -69,29 +69,14 @@ The following compliance frameworks are covered:
 
 ---
 
-## 🔍 **Detailed Documentation**
+## **Detailed Documentation**
 
-- [**Installation Guide**](INSTALLATION.md): Step-by-step installation instructions for Nessus.
-- [**Configuration Guide**](CONFIGURATION.md): Instructions for connecting Nessus with your AWS account.
-- [**Scanning Guide**](SCANS.md): How to perform security scans using Nessus.
-- [**Results Analysis**](RESULTS.md): Understanding the findings and vulnerabilities discovered.
-- [**Compliance Overview**](COMPLIANCE.md): How Nessus checks compliance with security standards.
-- [**Troubleshooting Guide**](TROUBLESHOOTING.md): Solutions for common issues encountered during scanning.
+- **Installation Guide**: Step-by-step installation instructions for Nessus.
+- **Configuration Guide**: Instructions for connecting Nessus with your AWS account.
+- **Scanning Guide**: How to perform security scans using Nessus.
+- **Results Analysis**: Understanding the findings and vulnerabilities discovered.
+- **Compliance Overview**: How Nessus checks compliance with security standards.
+- **Troubleshooting Guide**: Solutions for common issues encountered during scanning.
 
----
-
-## 📝 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
-
-## 🧑‍💻 **Contributing**
-
-We welcome contributions to improve this project! If you'd like to contribute, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
----
-
-## 📣 **Contact**
-
-For any issues or questions, please open an issue in the repository or contact us at **[your_email@example.com](mailto:your_email@example.com)**.
